@@ -1,4 +1,4 @@
-I'm a disciple of low level engineering
+I'm a disciple of low-level engineering
 <!--
 **Lushegtech/Lushegtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
